@@ -1,0 +1,110 @@
+[
+    {
+        "family": "A2212",
+        "kv": 930,
+        "noLoadCurrent": 0.6,
+        "maxCurrent": 12,
+        "maxPower": 150,
+        "resistance": 0.1,
+        "dimensions": {
+            "length": 27.7,
+            "diameter": 27,
+            "shaftDiameter": 3.17
+        },
+        "weight": 50,
+        "efficiencyCurrentRange": {
+            "min": 4,
+            "max": 10
+        }
+    },
+    {
+        "family": "A2212",
+        "kv": 1000,
+        "noLoadCurrent": 0.5,
+        "maxCurrent": 13,
+        "maxPower": 150,
+        "resistance": 0.09,
+        "dimensions": {
+            "length": 27.7,
+            "diameter": 27,
+            "shaftDiameter": 3.17
+        },
+        "weight": 52.7,
+        "efficiencyCurrentRange": {
+            "min": 4,
+            "max": 10
+        }
+    },
+    {
+        "family": "A2212",
+        "kv": 1400,
+        "noLoadCurrent": 0.7,
+        "maxCurrent": 16,
+        "maxPower": 180,
+        "resistance": 0.065,
+        "dimensions": {
+            "length": 27.7,
+            "diameter": 27,
+            "shaftDiameter": 3.17
+        },
+        "weight": 47,
+        "efficiencyCurrentRange": {
+            "min": 6,
+            "max": 12
+        }
+    },
+    {
+        "family": "A2212",
+        "kv": 2200,
+        "noLoadCurrent": 0.8,
+        "maxCurrent": 20,
+        "maxPower": 200,
+        "resistance": 0.05,
+        "dimensions": {
+            "length": 27.7,
+            "diameter": 27,
+            "shaftDiameter": 3.17
+        },
+        "weight": 50,
+        "efficiencyCurrentRange": {
+            "min": 4,
+            "max": 10
+        }
+    },
+    {
+        "family": "A2212",
+        "kv": 2450,
+        "noLoadCurrent": 0.9,
+        "maxCurrent": 22,
+        "maxPower": 220,
+        "resistance": 0.045,
+        "dimensions": {
+            "length": 27.7,
+            "diameter": 27,
+            "shaftDiameter": 3.17
+        },
+        "weight": 50,
+        "efficiencyCurrentRange": {
+            "min": 4,
+            "max": 10
+        }
+    },
+    {
+        "family": "A2212",
+        "kv": 2600,
+        "noLoadCurrent": 1.0,
+        "maxCurrent": 24,
+        "maxPower": 240,
+        "resistance": 0.04,
+        "dimensions": {
+            "length": 27.7,
+            "diameter": 27,
+            "shaftDiameter": 3.17
+        },
+        "weight": 50,
+        "efficiencyCurrentRange": {
+            "min": 4,
+            "max": 10
+        }
+    }
+]
