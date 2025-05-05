@@ -5,6 +5,10 @@ RC-911 is a custom-built 1/16 scale RC drift car, inspired by the Porsche 911 96
 
 This repository serves as a comprehensive database and progress tracker for the project. Here, you'll find analyses of various components, working implementations, and open development tasks. Feel free to explore and use any shared resources.
 
+## Main spreadsheets
+Link to the main spreadsheet covering (as of now) everything going on with the project: [RC-911](https://docs.google.com/spreadsheets/d/1PvYepGLAhACm8byCU7NyavOzAE_qXddJPQoMz1xxEf0/edit?usp=sharing)
+  
+
 ## Features (Planned & Implemented)
 - **Brushless motor control** for smooth acceleration and drifting
 - **Custom suspension geometry** for realistic handling
